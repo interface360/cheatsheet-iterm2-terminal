@@ -16,6 +16,11 @@ Move a pane with the mouse | `⌘` + `Alt` + `Shift` and then drag the pane from
 Fullscreen | `⌘`+ `Enter`
 Maximize a pane | `⌘` + `Shift` + `Enter`  (use with fullscreen to temp fullscreen a pane!)
 Resize Pane | `Ctrl` + `⌘` + `Arrow` (given you haven't mapped this to something else)
+
+
 **Commonly Used while multiple window**
+
+**Function** | **Shortcut**
+-------- | --------
 Type in Multiple Window | `⌘`+ `Shift` + `i`
 
